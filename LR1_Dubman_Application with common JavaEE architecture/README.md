@@ -1,4 +1,16 @@
-------------------------------------------------------------------|
+# Лабораторная работа №1 по курсу "Архитектура Корпоративных Систем": "Application with common JavaEE architecture"
+
+# Средства, которые использовались для разработки приложения
+- JDK 16.0.2
+- Jakarta EE 9.1
+- GlassFish 6.2.1
+- PostgreSQL 13.3
+- Intellij IDEA Ultimate 2022.2.4
+
+# Задание на лабораторную работу
+
+|               General Task             |
+|------------------------------------------------------------------|
 |   You are to develop an application using common JavaEE architecture and technologies. It should have three layers (data, logic, view) and provide means to work with a database. It is strongly recommended to use version control and source code management system (like GitHub). It is strongly recommended to use Maven to manage your project. You can choose any IDE, but IntelliJ IDEA is recommended. You may not use IDE to deploy your project to an application server. All deployment should be made using administrative console.  |
 
 | Task 1 |   Task 2  |  Task 3 |  Task 4  |  Task 5 |  Task 6 |  Task 7 |
@@ -16,9 +28,9 @@
 ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/dc9eac5a-8cdb-4bf8-a324-66370d42be7f)
 
 ## Для работы с базой данных использовались следующие скрипты:
-- [create_data.sql](https://github.com/WonMin13/ESA/blob/main/LR1_Dubman_Application%20with%20common%20JavaEE%20architecture/labworkfinal1/sql_scripts/create_data.sql) - создание таблиц
-- [insert_data.sql](https://github.com/WonMin13/ESA/blob/main/LR1_Dubman_Application%20with%20common%20JavaEE%20architecture/labworkfinal1/sql_scripts/insert_data.sql) - заполнение таблиц
-- [delete_data.sql](https://github.com/WonMin13/ESA/blob/main/LR1_Dubman_Application%20with%20common%20JavaEE%20architecture/labworkfinal1/sql_scripts/delete_data.sql) - удаление данных из таблицы
+- [create_data.sql (https://github.com/WonMin13/ESA_Labs/blob/main/LR1_Dubman_Application%20with%20common%20JavaEE%20architecture/labworkfinal1/sql_scripts/create_data.sql)- создание таблиц
+- [insert_data.sql](https://github.com/WonMin13/ESA_Labs/blob/main/LR1_Dubman_Application%20with%20common%20JavaEE%20architecture/labworkfinal1/sql_scripts/insert_data.sql) - заполнение таблиц
+- [delete_data.sql](https://github.com/WonMin13/ESA_Labs/blob/main/LR1_Dubman_Application%20with%20common%20JavaEE%20architecture/labworkfinal1/sql_scripts/delete_data.sql) - удаление данных из таблицы
 
 
 # Представление данных
