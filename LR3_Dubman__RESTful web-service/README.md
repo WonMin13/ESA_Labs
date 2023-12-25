@@ -52,27 +52,27 @@
 
 |              Armys before create                |           
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/e7537c60-8bda-4bf6-ab10-0d25de02e283) |
 
 
 |                   Create Army                   |
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/db50c4b0-04f6-431d-8c97-381119ce7929) |
 
 
 |               Armys after create                |           
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/285b8ce9-6b39-46a8-af8d-d17098b9bbb6) |
 
 
 |             Update Group(Army)                  |
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/e9eb3182-ce0e-429e-b2a8-e050940805a1) |
 
 
 |              Armys after update                 |
 |:-----------------------------------------------:|
-|  |
+|  ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/22816aa7-faa4-4670-977a-16fe81d1cc67) |
 
 
 
@@ -81,7 +81,7 @@
 
 |              Albums before create               |           
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/54995396-b1aa-460b-951f-0b29470fba81) |
 
 
 |   Albums Army (group) before create  a new one  |           
