@@ -65,7 +65,7 @@
 | ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/285b8ce9-6b39-46a8-af8d-d17098b9bbb6) |
 
 
-|             Update Group(Army)                  |
+|                   Update Army                   |
 |:-----------------------------------------------:|
 | ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/e9eb3182-ce0e-429e-b2a8-e050940805a1) |
 
@@ -84,36 +84,47 @@
 | ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/54995396-b1aa-460b-951f-0b29470fba81) |
 
 
-|   Albums Army (group) before create  a new one  |           
+|       Albums Army before create  a new one      |           
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/ac31932f-eabb-49ca-aec2-fffd3b4da159) |
 
 
 |                  Create Album                   |
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/82443b7f-14a4-45bb-bae0-acc8c1e7c003) |
 
 
 |              Albums after create                |           
 |:-----------------------------------------------:|
-|   |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/ea83646c-c0c6-40ec-9041-487d724bbb8b) |
 
 
-|   Albums Army (group) after create  a new one  |           
+|                  Update Album                   |
 |:-----------------------------------------------:|
-| |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/90285e0c-f4f3-4696-85a7-56930310c3c9) |
+
+
+|              Albums after update                |           
+|:-----------------------------------------------:|
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/594a6345-4c32-443c-ab97-1884817f291f) |
+
+
+|        Albums Army after create  a new one      |           
+|:-----------------------------------------------:|
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/08ebc1f2-6a7b-4264-82c5-2e3783ce6f91) |
 
 
 # XSLT
 
 |                      Armys                      |           
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/27d0fd5d-0ca7-4f60-b70d-6b5454c6680c) 
+![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/2cc79483-4bd2-49d2-889c-b6f9f1de6026) |
 
 
 |                     Albums                      |           
 |:-----------------------------------------------:|
-|  |
+| ![image](https://github.com/WonMin13/ESA_Labs/assets/154375695/9871283e-38ea-4696-9104-7befffdad312) |
 
 
 
