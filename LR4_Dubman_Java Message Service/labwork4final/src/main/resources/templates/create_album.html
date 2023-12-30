@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Create Album</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+</head>
+<body>
+<div class="container w-50">
+    <form th:method="post" th:action="@{/albums/create}" th:object="${album}">
+        <h1>Create Album</h1>
+        <div class="form-group">
+            <label for="nameAlbum">Name album: </label>
+            <input class="form-control" id="nameAlbum" th:field="*{nameAlbum}" type="text" required/>
+        </div>
+        <div class="form-group">
+            <label for="song">Song: </label>
+            <input class="form-control" id="song" th:field="*{song}" type="text" required/>
+        </div>
+        <div class="form-group">
+            <label for="price">Price: </label>
+            <input class="form-control" id="price" th:field="*{price}" type="number" min="100" max="1000" required>
+        </div>
+        <div class="form-group">
+            <label for="armyId">ArmyId: </label>
+            <select class="form-control" id="armyId" th:name="armyId" required>
+                <option th:each="armyId : ${armyIds}" th:value="${armyId}" th:text="${armyId}">
+                </option>
+            </select>
+        </div>
+        <br>
+        <input type="submit" value="Create" class="btn btn-primary"/>
+    </form>
+</div>
+</body>
+</html>
