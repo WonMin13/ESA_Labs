@@ -1,6 +1,6 @@
-INSERT INTO public._army (id, nameArmy) VALUES (3, 'Anna');
-INSERT INTO public._army (id, nameArmy) VALUES (4, 'Won');
-INSERT INTO public._army (id, nameArmy) VALUES (5, 'Min');
+INSERT INTO public.army (id, nameArmy) VALUES (3, 'Anna');
+INSERT INTO public.army (id, nameArmy) VALUES (4, 'Won');
+INSERT INTO public.army (id, nameArmy) VALUES (5, 'Min');
 
 INSERT INTO public.album (id, nameAlbum, song, price, army_id) VALUES (3, '2 COOL 4 SKOOL', 'We Are Bulletproof Pt.2', 150, 2);
 INSERT INTO public.album (id, nameAlbum, song, price, army_id) VALUES (4, 'Dark and Wild', 'danger', 300, 2);
